@@ -86,6 +86,5 @@ label = "Rob Atm",
 },
 distance = 2.0,
 })
-Citizen.Wait(50)
 end
 end)
